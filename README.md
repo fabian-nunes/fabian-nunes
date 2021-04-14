@@ -1,10 +1,11 @@
-# Hi my name is Fabian Nunes!
+# Hi my name is Fabian Nunes! 👋
 I am Computer Science student currently ending the course in ESTGOH Portugal.
-## Hobbies
+
+## Hobbies ❤️
 
 I love programming anda game developing participating in various Hacktons.
 
-## Knowledge
+## Knowledge  🧑‍🎓 
 
 This is the technologies which i am familiar:
 #### Programming Language:
@@ -43,7 +44,7 @@ This is the technologies which i am familiar:
 ### Current IDE
 ![studio](https://img.shields.io/badge/Android%20Studio-000000.svg?&style=for-the-badge&logo=android%20studio&logoColor=white) ![WStorm](https://img.shields.io/badge/Webstorm-000000.svg?&style=for-the-badge&logo=WebStorm&logoColor=white) ![net](https://img.shields.io/badge/NetBeans%20IDE-1B6AC6.svg?&style=for-the-badge&logo=apache-netbeans-ide&logoColor=white) 
 
-## Activities
+## Activities  👨‍💻
 
 This are the hacktons that i participated:
 
@@ -55,7 +56,7 @@ This are the hacktons that i participated:
 | Global Game Jam      | 2021      | [Aventuras Do Alcides Part 2](https://globalgamejam.org/2021/games/aventuras-do-alcides-parte-2-tinto-crusaders-6) |
 | Tecstorm      | 2021      | [AugMed](https://taikai.network/en/junitec/challenges/tecstorm2021/projects/ckj03ft1341v80707kpwskstq) |
 
-## Other Projects
+## Other Projects 👑
 
 These are some other projects I done 
 | Project     | Year |
@@ -63,7 +64,7 @@ These are some other projects I done
 | [SCMed](https://github.com/Spaghetti-Code-Estgoh/spaghetti-code)      | 2020-2021      |
 | [Projekt Akrasia](https://github.com/Spaghetty-Arts/project-akrasia)   | 2021       |
 
-## Gaming
+## Gaming 🎮
 
 #### Platform:
 ![pc](https://img.shields.io/badge/-PC-yellow?style=for-the-badge&logo=pcgamingwiki) ![switch](https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)
@@ -74,7 +75,8 @@ These are some other projects I done
 #### Rig:
 ![nvidia](https://img.shields.io/badge/NVIDIA-GTX1070TI-76B900?style=for-the-badge&logo=nvidia&logoColor=white) ![intel](https://img.shields.io/badge/Intel-Core_i5_8th-0071C5?style=for-the-badge&logo=intel&logoColor=white) ![ram](https://img.shields.io/badge/RAM-32GB-blue?style=for-the-badge)
 
-## Contact
+## Contact 🌐
 
 [My Website](http://fabiannunescv.pt/)
+
 [My LinkedIn](https://www.linkedin.com/in/fabian-nunes/)
