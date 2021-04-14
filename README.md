@@ -21,7 +21,7 @@ This is the technologies which i am familiar:
 ![Unity](https://img.shields.io/badge/unity%20-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white) ![Godot](https://img.shields.io/badge/GODOT%20-%23FFFFFF.svg?&style=for-the-badge&logo=godot-engine) ![MV](https://img.shields.io/badge/RPG%20Maker-MV-green?style=for-the-badge) ![MZ](https://img.shields.io/badge/RPG%20Maker-MZ-blue?style=for-the-badge)
 
 #### Design:
-![Photo](https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Aseprite](https://img.shields.io/badge/RPG%20Maker-MZ-blue?style=for-the-badge)
+![Photo](https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Aseprite](https://img.shields.io/badge/-Aseprite-gray?style=for-the-badge&logo=Aseprite)
 
 #### Office:
 ![Office](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white) ![ex](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![PPT](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white) ![Visio](https://img.shields.io/badge/-Microsoft%20Visio-blue?style=for-the-badge&logo=microsoft-visio)
