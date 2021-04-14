@@ -20,28 +20,31 @@ This is the technologies which i am familiar:
 #### Engine:
 ![Unity](https://img.shields.io/badge/unity%20-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white) ![Godot](https://img.shields.io/badge/GODOT%20-%23FFFFFF.svg?&style=for-the-badge&logo=godot-engine) ![MV](https://img.shields.io/badge/RPG%20Maker-MV-green?style=for-the-badge) ![MZ](https://img.shields.io/badge/RPG%20Maker-MZ-blue?style=for-the-badge)
 
+#### Network
+![MV](https://img.shields.io/badge/-CCNA1-darkblue?style=for-the-badge&logo=Cisco) ![MZ](https://img.shields.io/badge/-CCNA2-darkblue?style=for-the-badge&logo=Cisco)
+
 #### Design:
 ![Photo](https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Aseprite](https://img.shields.io/badge/-Aseprite-gray?style=for-the-badge&logo=Aseprite)
 
 #### Office:
 ![Office](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white) ![ex](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![PPT](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white) ![Visio](https://img.shields.io/badge/-Microsoft%20Visio-blue?style=for-the-badge&logo=microsoft-visio)
 
-### Sound
+#### Sound
 ![Aud](https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white)
 
-### Video
+#### Video
 ![Da](https://img.shields.io/badge/-Da%20Vinci%20Resolve-blue?style=for-the-badge&logo=appveyor) ![Prem](https://img.shields.io/badge/-Da%20Vinci%20Resolve-purple?style=for-the-badge&logo=adobe-premiere-pro) ![Ae](https://img.shields.io/badge/-Adobe%20After%20Effects-purple?style=for-the-badge&logo=adobe-after-effects)
 
-### Prototype
+#### Prototype
 ![Axure](https://img.shields.io/badge/-Axure-blue?style=for-the-badge) ![Just](https://img.shields.io/badge/-JustInMind-blue?style=for-the-badge)
 
-### OS
+#### OS
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### Used IDE
+#### Used IDE
 ![Intelij](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=for-the-badge&logo=intellij-idea&logoColor=white) ![Storm](https://img.shields.io/badge/PhpStorm-000000.svg?&style=for-the-badge&logo=PhpStorm&logoColor=white) ![rider](https://img.shields.io/badge/Rider-000000.svg?&style=for-the-badge&logo=Rider&logoColor=white) ![data](https://img.shields.io/badge/DataGrip-000000.svg?&style=for-the-badge&logo=jetbrains&logoColor=white) ![py](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white) ![atom](https://img.shields.io/badge/-Atom-green?style=for-the-badge&logo=atom) ![eclipse](https://img.shields.io/badge/-Eclipse%20IDE-purple?style=for-the-badge&logo=eclipse%20IDE)
 
-### Current IDE
+#### Current IDE
 ![studio](https://img.shields.io/badge/Android%20Studio-000000.svg?&style=for-the-badge&logo=android%20studio&logoColor=white) ![WStorm](https://img.shields.io/badge/Webstorm-000000.svg?&style=for-the-badge&logo=WebStorm&logoColor=white) ![net](https://img.shields.io/badge/NetBeans%20IDE-1B6AC6.svg?&style=for-the-badge&logo=apache-netbeans-ide&logoColor=white) 
 
 ## Activities  👨‍💻
