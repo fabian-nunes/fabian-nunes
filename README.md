@@ -33,7 +33,7 @@ This is the technologies which i am familiar:
 ![Aud](https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white)
 
 #### Video
-![Da](https://img.shields.io/badge/-Da%20Vinci%20Resolve-blue?style=for-the-badge&logo=appveyor) ![Prem](https://img.shields.io/badge/-Da%20Vinci%20Resolve-purple?style=for-the-badge&logo=adobe-premiere-pro) ![Ae](https://img.shields.io/badge/-Adobe%20After%20Effects-purple?style=for-the-badge&logo=adobe-after-effects)
+![Da](https://img.shields.io/badge/-Da%20Vinci%20Resolve-blue?style=for-the-badge&logo=appveyor) ![Prem](https://img.shields.io/badge/-Adobe%20Premier-purple?style=for-the-badge&logo=adobe-premiere-pro) ![Ae](https://img.shields.io/badge/-Adobe%20After%20Effects-purple?style=for-the-badge&logo=adobe-after-effects)
 
 #### Prototype
 ![Axure](https://img.shields.io/badge/-Axure-blue?style=for-the-badge) ![Just](https://img.shields.io/badge/-JustInMind-blue?style=for-the-badge)
