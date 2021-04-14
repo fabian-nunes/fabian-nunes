@@ -1,16 +1,80 @@
-### Hi there 👋
+# Hi my name is Fabian Nunes!
+I am Computer Science student currently ending the course in ESTGOH Portugal.
+## Hobbies
 
-<!--
-**fabian-nunes/fabian-nunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love programming anda game developing participating in various Hacktons.
 
-Here are some ideas to get you started:
+## Knowledge
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This is the technologies which i am familiar:
+#### Programming Language:
+![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) ![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+#### Database:
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white) ![Oracle](https://img.shields.io/badge/oracle%20-%23F00000.svg?&style=for-the-badge&logo=oracle&logoColor=white") 
+
+#### Frameworks:
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![Boot](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+
+#### Engine:
+![Unity](https://img.shields.io/badge/unity%20-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white) ![Godot](https://img.shields.io/badge/GODOT%20-%23FFFFFF.svg?&style=for-the-badge&logo=godot-engine) ![MV](https://img.shields.io/badge/RPG%20Maker-MV-green?style=for-the-badge) ![MZ](https://img.shields.io/badge/RPG%20Maker-MZ-blue?style=for-the-badge)
+
+#### Design:
+![Photo](https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Aseprite](https://img.shields.io/badge/RPG%20Maker-MZ-blue?style=for-the-badge)
+
+#### Office:
+![Office](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white) ![ex](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![PPT](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white) ![Visio](https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badgee&logo=microsoft-visio&logoColor=white)
+
+### Sound
+![Aud](https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white)
+
+### Video
+![Da](https://img.shields.io/badge/-Da%20Vinci%20Resolve-blue?style=for-the-badge&logo=appveyor) ![Prem](https://img.shields.io/badge/-Da%20Vinci%20Resolve-purple?style=for-the-badge&logo=adobe-premiere-pro) ![Ae](https://img.shields.io/badge/-Adobe%20After%20Effects-purple?style=for-the-badge&logo=adobe-after-effects)
+
+### Prototype
+![Axure](https://img.shields.io/badge/-Axure-blue?style=for-the-badge) ![Just](https://img.shields.io/badge/-JustInMind-blue?style=for-the-badge)
+
+### OS
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### Favorite IDE
+![Intelij](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=for-the-badge&logo=intellij-idea&logoColor=white) ![Storm](https://img.shields.io/badge/PhpStorm-000000.svg?&style=for-the-badge&logo=PhpStorm&logoColor=white) ![rider](https://img.shields.io/badge/Rider-000000.svg?&style=for-the-badge&logo=Rider&logoColor=white) ![data](https://img.shields.io/badge/DataGrip-000000.svg?&style=for-the-badge&logo=jetbrains&logoColor=white) ![py](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
+
+### Current IDE
+![studio](https://img.shields.io/badge/Android%20Studio-000000.svg?&style=for-the-badge&logo=android%20studio&logoColor=white) ![WStorm](https://img.shields.io/badge/Webstorm-000000.svg?&style=for-the-badge&logo=WebStorm&logoColor=white) ![net](https://img.shields.io/badge/NetBeans%20IDE-1B6AC6.svg?&style=for-the-badge&logo=apache-netbeans-ide&logoColor=white) 
+
+## Activities
+
+This are the hacktons that i participated:
+
+| Hackton     | Year        | Project     |
+| ----------- | ----------- | ----------- |
+| Tecstorm      | 2019      | Smart Thrash |
+| Global Game Jam      | 2020      | [ParkOut](https://globalgamejam.org/2020/games/parkout-0) |
+| Tecstorm      | 2020      | [AugLearn](https://taikai.network/en/junitec/challenges/tecstorm2020/projects/ck48dub1j16b60807ju9tayii) |
+| Global Game Jam      | 2021      | [Aventuras Do Alcides Part 2](https://globalgamejam.org/2021/games/aventuras-do-alcides-parte-2-tinto-crusaders-6) |
+| Tecstorm      | 2021      | [AugMed](https://taikai.network/en/junitec/challenges/tecstorm2021/projects/ckj03ft1341v80707kpwskstq) |
+
+## Other Projects
+
+These are some other projects I done 
+| Project     | Year |
+| ----------- | ----------- |
+| [SCMed](https://github.com/Spaghetti-Code-Estgoh/spaghetti-code)      | 2020-2021      |
+| [Projekt Akrasia](https://github.com/Spaghetty-Arts/project-akrasia)   | 2021       |
+
+## Gaming
+
+#### Platform:
+![pc](https://img.shields.io/badge/-PC-yellow?style=for-the-badge&logo=pcgamingwiki) ![switch](https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)
+
+#### Favorite Platform:
+![steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
+
+#### Rig:
+![nvidia](https://img.shields.io/badge/NVIDIA-GTX1070TI-76B900?style=for-the-badge&logo=nvidia&logoColor=white) ![intel](https://img.shields.io/badge/Intel-Core_i5_8th-0071C5?style=for-the-badge&logo=intel&logoColor=white) ![ram](https://img.shields.io/badge/RAM-32GB-blue?style=for-the-badge)
+
+## Contact
+
+[My Website](http://fabiannunescv.pt/)
+[My LinkedIn](https://www.linkedin.com/in/fabian-nunes/)
