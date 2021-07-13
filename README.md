@@ -42,11 +42,12 @@ This is the technologies which i am familiar:
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 #### Used IDE
-![Intelij](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=for-the-badge&logo=intellij-idea&logoColor=white) ![Storm](https://img.shields.io/badge/PhpStorm-000000.svg?&style=for-the-badge&logo=PhpStorm&logoColor=white) ![rider](https://img.shields.io/badge/Rider-000000.svg?&style=for-the-badge&logo=Rider&logoColor=white) ![data](https://img.shields.io/badge/DataGrip-000000.svg?&style=for-the-badge&logo=jetbrains&logoColor=white) ![py](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white) ![atom](https://img.shields.io/badge/-Atom-green?style=for-the-badge&logo=atom) ![eclipse](https://img.shields.io/badge/-Eclipse%20IDE-purple?style=for-the-badge&logo=eclipse%20IDE)
+![Storm](https://img.shields.io/badge/PhpStorm-000000.svg?&style=for-the-badge&logo=PhpStorm&logoColor=white) ![rider](https://img.shields.io/badge/Rider-000000.svg?&style=for-the-badge&logo=Rider&logoColor=white) ![data](https://img.shields.io/badge/DataGrip-000000.svg?&style=for-the-badge&logo=jetbrains&logoColor=white) ![py](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white) ![atom](https://img.shields.io/badge/-Atom-green?style=for-the-badge&logo=atom) ![eclipse](https://img.shields.io/badge/-Eclipse%20IDE-purple?style=for-the-badge&logo=eclipse%20IDE)![net](https://img.shields.io/badge/NetBeans%20IDE-1B6AC6.svg?&style=for-the-badge&logo=apache-netbeans-ide&logoColor=white) ![studio](https://img.shields.io/badge/Android%20Studio-000000.svg?&style=for-the-badge&logo=android%20studio&logoColor=white)
+
 
 #### Current IDE
-![studio](https://img.shields.io/badge/Android%20Studio-000000.svg?&style=for-the-badge&logo=android%20studio&logoColor=white) ![WStorm](https://img.shields.io/badge/Webstorm-000000.svg?&style=for-the-badge&logo=WebStorm&logoColor=white) ![net](https://img.shields.io/badge/NetBeans%20IDE-1B6AC6.svg?&style=for-the-badge&logo=apache-netbeans-ide&logoColor=white) 
-
+ ![WStorm](https://img.shields.io/badge/Webstorm-000000.svg?&style=for-the-badge&logo=WebStorm&logoColor=white) ![Intelij](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=for-the-badge&logo=intellij-idea&logoColor=white)
+ 
 ## Activities  👨‍💻
 
 This are the hacktons that i participated:
