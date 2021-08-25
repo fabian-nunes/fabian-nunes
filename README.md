@@ -74,7 +74,7 @@ These are some other projects I done
 ![pc](https://img.shields.io/badge/-PC-yellow?style=for-the-badge&logo=pcgamingwiki) ![switch](https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)
 
 #### Favorite Platform:
-![steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white) ![ubisoft](https://img.shields.io/badge/Ubisoft-000000?style=for-the-badge&logo=steam&logoColor=white)
+![steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white) ![ubisoft](https://img.shields.io/badge/Uplay-000000?style=for-the-badge&logo=ubisoft&logoColor=white)
 
 #### Rig:
 ![nvidia](https://img.shields.io/badge/NVIDIA-GTX1070TI-76B900?style=for-the-badge&logo=nvidia&logoColor=white) ![intel](https://img.shields.io/badge/Intel-Core_i7_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white) ![ram](https://img.shields.io/badge/RAM-32GB-blue?style=for-the-badge)
