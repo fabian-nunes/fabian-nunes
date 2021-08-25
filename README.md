@@ -1,5 +1,5 @@
 # Hi my name is Fabian Nunes! 👋
-I am Computer Science student currently ending the course in ESTGOH Portugal.
+I am Computer Scientist / Software Engineer currently doing my Master Degree in Cybersecurity and Forensics Investigation on the college ESTG in Leiria, Portugal.
 
 ## Hobbies ❤️
 
