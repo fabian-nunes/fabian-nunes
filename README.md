@@ -77,10 +77,14 @@ These are some other projects I done
 ![steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
 
 #### Rig:
-![nvidia](https://img.shields.io/badge/NVIDIA-GTX1070TI-76B900?style=for-the-badge&logo=nvidia&logoColor=white) ![intel](https://img.shields.io/badge/Intel-Core_i5_8th-0071C5?style=for-the-badge&logo=intel&logoColor=white) ![ram](https://img.shields.io/badge/RAM-32GB-blue?style=for-the-badge)
+![nvidia](https://img.shields.io/badge/NVIDIA-GTX1070TI-76B900?style=for-the-badge&logo=nvidia&logoColor=white) ![intel](https://img.shields.io/badge/Intel-Core_i7_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white) ![ram](https://img.shields.io/badge/RAM-32GB-blue?style=for-the-badge)
+
+#### Current Laptops:
+![hp](https://img.shields.io/badge/Game%20Dev-HP%20OMEN%2015%202019-red?style=for-the-badge&logo=hp) ![apple](https://img.shields.io/badge/Work-MacBook%20Pro%2013%202021%20M1-lightgrey?style=for-the-badge&logo=apple) 
+
 
 ## Contact 🌐
 
-[My Website](http://fabiannunescv.pt/)
+[My Website](https://fabian-nunes.github.io/cv/)
 
 [My LinkedIn](https://www.linkedin.com/in/fabian-nunes/)
