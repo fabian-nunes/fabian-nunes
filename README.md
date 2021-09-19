@@ -84,6 +84,10 @@ These are some other projects I done
 
 ## Contact 🌐
 
-[My Website](https://fabian-nunes.github.io/cv/)
+These are some ways to contact me:
+| Platform     | Link |
+| ----------- | ----------- |
+| ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)      | [My Website](https://fabian-nunes.github.io/cv/)      |
+| ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)   |  [My LinkedIn](https://www.linkedin.com/in/fabian-nunes/)      |
+| ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)   |  fabiannunes12@gmail.com      |
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) [My LinkedIn](https://www.linkedin.com/in/fabian-nunes/)
