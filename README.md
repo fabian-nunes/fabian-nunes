@@ -22,7 +22,7 @@ This is the technologies which i am familiar:
 
 #### Network
 ![MV](https://img.shields.io/badge/-CCNA1-darkblue?style=for-the-badge&logo=Cisco) ![MZ](https://img.shields.io/badge/-CCNA2-darkblue?style=for-the-badge&logo=Cisco) ![MZ](https://img.shields.io/badge/-CCNA3-darkblue?style=for-the-badge&logo=Cisco)
-![MZ](https://img.shields.io/badge/-IoT Sec-darkblue?style=for-the-badge&logo=Cisco) ![MZ](https://img.shields.io/badge/-CyberOps Associate-darkblue?style=for-the-badge&logo=Cisco)
+![MZ](https://img.shields.io/badge/-IoT Sec-darkblue?style=for-the-badge&logo=Cisco) ![MZ](https://img.shields.io/badge/-CyberOps%Associate-darkblue?style=for-the-badge&logo=Cisco)
 
 #### Design:
 ![Photo](https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Aseprite](https://img.shields.io/badge/-Aseprite-gray?style=for-the-badge&logo=Aseprite)
