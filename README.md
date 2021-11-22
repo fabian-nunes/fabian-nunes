@@ -51,7 +51,8 @@ This is the technologies which i am familiar:
 
 ## Certifications 🎓
 
-These are some ways to contact me:
+These are various certifications i have taken during my academic progress:
+
 | Course    | Year | Certification |
 | ----------- | ----------- | ----------- | 
 | NDG Linux Essentials | 2018 | [Certificate](https://drive.google.com/file/d/1ZZh5wU-sURPMWWVxDC5zDMSoQBkks9IR/view?usp=sharing)| 
