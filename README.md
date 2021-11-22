@@ -47,7 +47,25 @@ This is the technologies which i am familiar:
 
 #### Current IDE
 ![WStorm](https://img.shields.io/badge/Webstorm-000000.svg?&style=for-the-badge&logo=WebStorm&logoColor=white) ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
- 
+
+
+## Certifications 🎓
+
+These are some ways to contact me:
+| Course    | Year | Certification |
+| ----------- | ----------- | ----------- | 
+| NDG Linux Essentials | 2018 | [Certificate](https://drive.google.com/file/d/1ZZh5wU-sURPMWWVxDC5zDMSoQBkks9IR/view?usp=sharing)| 
+| CCNA: Introduction to Networks | 2020 | [Badge](https://www.credly.com/badges/2c2608b0-7969-4b25-8c35-4c8b77cf0a71?source=linked_in_profile) | 
+| PCAP: Programming Essentials in Python | 2021 | [Certificate](https://drive.google.com/file/d/1u8c7a_q36CaLwOwv4qt3nBZUk6x5Y42p/view?usp=sharing) |
+| CCNA: Switching, Routing, and Wireless Essentials | 2021 | [Badge](https://www.credly.com/badges/037ddad4-22b3-4ff2-8a71-45eadb7e6bb1) |
+| CCNA: Enterprise Networking, Security, and Automation | 2021 | [Badge](https://www.credly.com/badges/614923b3-41d6-4ce6-b056-d3fc0d4a82dd?source=linked_in_profile) |
+| Javascript Essentials 1 (JSE) | 2021 | [Certification](https://drive.google.com/file/d/1stwvBTt7KP10Oy2BTVzcNE4Ipfu5T8P2/view?usp=sharing) |
+| Introduction to Cybersecurity | 2021 | [Badge](https://www.credly.com/badges/c851b89d-ff0d-440d-8f83-da1756689fd4?source=linked_in_profile) |
+| Cybersecurity Essentials | 2021 | [Badge](https://www.credly.com/badges/91edfc8d-a8b6-4006-9107-91372f951a53?source=linked_in_profile) |
+| CyberOps Associate | 2021 | [Badge](https://www.credly.com/badges/046358dc-51a0-4197-b8f1-78374f40bcdf?source=linked_in_profile) |
+| IoT Security | 2021 | [Certification](https://drive.google.com/file/d/1WKaV3Pdp8drioE1aCu-SzYunpdjvFKwn/view?usp=sharing) |
+
+
 ## Activities  👨‍💻
 
 This are the hacktons that i participated:
