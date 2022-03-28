@@ -22,7 +22,7 @@ This is the technologies which i am familiar:
 
 #### Network
 ![MV](https://img.shields.io/badge/-CCNA1-darkblue?style=for-the-badge&logo=Cisco) ![MZ](https://img.shields.io/badge/-CCNA2-darkblue?style=for-the-badge&logo=Cisco) ![MZ](https://img.shields.io/badge/-CCNA3-darkblue?style=for-the-badge&logo=Cisco)
-![MZ](https://img.shields.io/badge/-IoT%20Security-darkblue?style=for-the-badge&logo=Cisco) ![MZ](https://img.shields.io/badge/-CyberOps%20Associate-darkblue?style=for-the-badge&logo=Cisco)
+![MZ](https://img.shields.io/badge/-IoT%20Security-darkblue?style=for-the-badge&logo=Cisco) ![MZ](https://img.shields.io/badge/-CyberOps%20Associate-darkblue?style=for-the-badge&logo=Cisco) [MZ](https://img.shields.io/badge/-Network%20Security-darkblue?style=for-the-badge&logo=Cisco)
 
 #### Design:
 ![Photo](https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Aseprite](https://img.shields.io/badge/-Aseprite-gray?style=for-the-badge&logo=Aseprite)
@@ -37,9 +37,9 @@ This is the technologies which i am familiar:
 ![Da](https://img.shields.io/badge/-Da%20Vinci%20Resolve-blue?style=for-the-badge&logo=appveyor) ![Prem](https://img.shields.io/badge/-Adobe%20Premier-purple?style=for-the-badge&logo=adobe-premiere-pro) ![Ae](https://img.shields.io/badge/-Adobe%20After%20Effects-purple?style=for-the-badge&logo=adobe-after-effects)
 
 #### Prototype
-![Axure](https://img.shields.io/badge/-Axure-blue?style=for-the-badge) ![Just](https://img.shields.io/badge/-JustInMind-blue?style=for-the-badge)
+![Axure](https://img.shields.io/badge/-Axure-blue?style=for-the-badge) ![Just](https://img.shields.io/badge/-JustInMind-blue?style=for-the-badge) ![figma](https://img.shields.io/badge/-Figma-orange?style=for-the-badge&logo=figma)
 
-#### OS
+#### Used OS
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white) ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0) ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white) ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white) ![Cent OS](https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Debian](https://img.shields.io/badge/debian-A81D33.svg?&style=for-the-badge&logo=debian&logoColor=white) ![Elementary](https://img.shields.io/badge/elementary%20os-64BAFF.svg?&style=for-the-badge&logo=elementary&logoColor=white)
 
 
