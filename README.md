@@ -22,7 +22,7 @@ This is the technologies which i am familiar:
 
 #### Network
 ![MV](https://img.shields.io/badge/-CCNA1-darkblue?style=for-the-badge&logo=Cisco) ![MZ](https://img.shields.io/badge/-CCNA2-darkblue?style=for-the-badge&logo=Cisco) ![MZ](https://img.shields.io/badge/-CCNA3-darkblue?style=for-the-badge&logo=Cisco)
-![MZ](https://img.shields.io/badge/-IoT%20Security-darkblue?style=for-the-badge&logo=Cisco) ![MZ](https://img.shields.io/badge/-CyberOps%20Associate-darkblue?style=for-the-badge&logo=Cisco) [MZ](https://img.shields.io/badge/-Network%20Security-darkblue?style=for-the-badge&logo=Cisco)
+![MZ](https://img.shields.io/badge/-IoT%20Security-darkblue?style=for-the-badge&logo=Cisco) ![MZ](https://img.shields.io/badge/-CyberOps%20Associate-darkblue?style=for-the-badge&logo=Cisco) ![MZ](https://img.shields.io/badge/-Network%20Security-darkblue?style=for-the-badge&logo=Cisco)
 
 #### Design:
 ![Photo](https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Aseprite](https://img.shields.io/badge/-Aseprite-gray?style=for-the-badge&logo=Aseprite)
@@ -66,6 +66,7 @@ These are various certifications i have taken during my academic progress:
 | Cybersecurity Essentials | 2021 | [Badge](https://www.credly.com/badges/91edfc8d-a8b6-4006-9107-91372f951a53?source=linked_in_profile) |
 | CyberOps Associate | 2021 | [Badge](https://www.credly.com/badges/046358dc-51a0-4197-b8f1-78374f40bcdf?source=linked_in_profile) |
 | IoT Security | 2021 | [Certification](https://drive.google.com/file/d/1WKaV3Pdp8drioE1aCu-SzYunpdjvFKwn/view?usp=sharing) |
+| Network Security | 2021 | [Certification](https://www.credly.com/badges/5cb3a9ad-1390-4cb4-918d-e128b6578d64?source=linked_in_profile) |
 
 
 ## Activities  👨‍💻
@@ -100,7 +101,7 @@ These are some other projects I done
 ![nvidia](https://img.shields.io/badge/NVIDIA-GTX1070TI-76B900?style=for-the-badge&logo=nvidia&logoColor=white) ![intel](https://img.shields.io/badge/Intel-Core_i7_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white) ![ram](https://img.shields.io/badge/RAM-32GB-blue?style=for-the-badge)
 
 #### Current Laptops:
-![hp](https://img.shields.io/badge/Game%20Dev-HP%20OMEN%2015%202019-red?style=for-the-badge&logo=hp) ![apple](https://img.shields.io/badge/Work-MacBook%20Pro%2013%202021%20M1-lightgrey?style=for-the-badge&logo=apple) 
+![hp](https://img.shields.io/badge/Game%20Dev-HP%20OMEN%2015%202019-red?style=for-the-badge&logo=hp) ![apple](https://img.shields.io/badge/School-MacBook%20Pro%2013%202020%20M1-lightgrey?style=for-the-badge&logo=apple) ![apple](https://img.shields.io/badge/Work-MacBook%20Pro%2014%202021%20M1%20Pro-lightgrey?style=for-the-badge&logo=apple) 
 
 
 ## Contact 🌐
