@@ -77,7 +77,7 @@ This are the hacktons that i participated:
 | Tecstorm      | 2020      | [AugLearn](https://taikai.network/en/junitec/challenges/tecstorm2020/projects/ck48dub1j16b60807ju9tayii) |
 | Global Game Jam      | 2021      | [Aventuras Do Alcides Part 2](https://globalgamejam.org/2021/games/aventuras-do-alcides-parte-2-tinto-crusaders-6) |
 | Tecstorm      | 2021      | [AugMed](https://taikai.network/en/junitec/challenges/tecstorm2021/projects/ckj03ft1341v80707kpwskstq) |
-| Tecstorm      | 2022      | [AugMed](https://taikai.network/en/junitec/hackathons/tecstorm2022/projects/ckxqgyu0a7809350rv479bhwnlj/idea) |
+| Tecstorm      | 2022      | [Safetrack](https://taikai.network/en/junitec/hackathons/tecstorm2022/projects/ckxqgyu0a7809350rv479bhwnlj/idea) |
 
 ## Other Projects 👑
 
