@@ -44,10 +44,7 @@ This is the technologies which i am familiar:
 
 
 #### Used IDE
-![Intelij](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=for-the-badge&logo=intellij-idea&logoColor=white) ![atom](https://img.shields.io/badge/-Atom-green?style=for-the-badge&logo=atom) ![eclipse](https://img.shields.io/badge/-Eclipse%20IDE-purple?style=for-the-badge&logo=eclipse%20IDE) ![net](https://img.shields.io/badge/NetBeans%20IDE-1B6AC6.svg?&style=for-the-badge&logo=apache-netbeans-ide&logoColor=white) ![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid) ![data](https://img.shields.io/badge/DataGrip-000000.svg?&style=for-the-badge&logo=jetbrains&logoColor=white) ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white) ![studio](https://img.shields.io/badge/Android%20Studio-000000.svg?&style=for-the-badge&logo=android%20studio&logoColor=white) ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-
-#### Current IDE
-![WStorm](https://img.shields.io/badge/Webstorm-000000.svg?&style=for-the-badge&logo=WebStorm&logoColor=white) ![Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson)
+![Intelij](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=for-the-badge&logo=intellij-idea&logoColor=white) ![atom](https://img.shields.io/badge/-Atom-green?style=for-the-badge&logo=atom) ![eclipse](https://img.shields.io/badge/-Eclipse%20IDE-purple?style=for-the-badge&logo=eclipse%20IDE) ![net](https://img.shields.io/badge/NetBeans%20IDE-1B6AC6.svg?&style=for-the-badge&logo=apache-netbeans-ide&logoColor=white) ![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid) ![data](https://img.shields.io/badge/DataGrip-000000.svg?&style=for-the-badge&logo=jetbrains&logoColor=white) ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white) ![studio](https://img.shields.io/badge/Android%20Studio-000000.svg?&style=for-the-badge&logo=android%20studio&logoColor=white) ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green) ![WStorm](https://img.shields.io/badge/Webstorm-000000.svg?&style=for-the-badge&logo=WebStorm&logoColor=white) ![Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson)
 
 
 ## Certifications 🎓
@@ -80,6 +77,7 @@ This are the hacktons that i participated:
 | Tecstorm      | 2020      | [AugLearn](https://taikai.network/en/junitec/challenges/tecstorm2020/projects/ck48dub1j16b60807ju9tayii) |
 | Global Game Jam      | 2021      | [Aventuras Do Alcides Part 2](https://globalgamejam.org/2021/games/aventuras-do-alcides-parte-2-tinto-crusaders-6) |
 | Tecstorm      | 2021      | [AugMed](https://taikai.network/en/junitec/challenges/tecstorm2021/projects/ckj03ft1341v80707kpwskstq) |
+| Tecstorm      | 2022      | [AugMed](https://taikai.network/en/junitec/hackathons/tecstorm2022/projects/ckxqgyu0a7809350rv479bhwnlj/idea) |
 
 ## Other Projects 👑
 
