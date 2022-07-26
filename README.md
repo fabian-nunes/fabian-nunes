@@ -96,7 +96,7 @@ These are some other projects I done
 ![steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white) ![ubisoft](https://img.shields.io/badge/Uplay-000000?style=for-the-badge&logo=ubisoft&logoColor=white)
 
 #### Rig:
-![nvidia](https://img.shields.io/badge/NVIDIA-GTX1070TI-76B900?style=for-the-badge&logo=nvidia&logoColor=white) ![intel](https://img.shields.io/badge/Intel-Core_i7_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white) ![ram](https://img.shields.io/badge/RAM-32GB-blue?style=for-the-badge)
+![nvidia](https://img.shields.io/badge/NVIDIA-GTX3080-76B900?style=for-the-badge&logo=nvidia&logoColor=white) ![intel](https://img.shields.io/badge/Intel-Core_i7_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white) ![ram](https://img.shields.io/badge/RAM-32GB-blue?style=for-the-badge)
 
 #### Current Laptops:
 ![hp](https://img.shields.io/badge/Game%20Dev-HP%20OMEN%2015%202019-red?style=for-the-badge&logo=hp) ![apple](https://img.shields.io/badge/School-MacBook%20Pro%2013%202020%20M1-lightgrey?style=for-the-badge&logo=apple) ![apple](https://img.shields.io/badge/Work-MacBook%20Pro%2014%202021%20M1%20Pro-lightgrey?style=for-the-badge&logo=apple) 
