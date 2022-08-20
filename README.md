@@ -64,6 +64,7 @@ These are various certifications i have taken during my academic progress:
 | CyberOps Associate | 2021 | [Badge](https://www.credly.com/badges/046358dc-51a0-4197-b8f1-78374f40bcdf?source=linked_in_profile) |
 | IoT Security | 2021 | [Certification](https://drive.google.com/file/d/1WKaV3Pdp8drioE1aCu-SzYunpdjvFKwn/view?usp=sharing) |
 | Network Security | 2021 | [Certification](https://www.credly.com/badges/5cb3a9ad-1390-4cb4-918d-e128b6578d64?source=linked_in_profile) |
+| CLA: Programming Essentials in C | 2022 | [Certification](https://drive.google.com/file/d/1hRhpJvNdPifKd3IQeG6mpwbV2kbbgF1n/view?usp=sharing) |
 
 
 ## Activities  👨‍💻
