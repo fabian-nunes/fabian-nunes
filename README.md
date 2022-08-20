@@ -87,6 +87,8 @@ These are some other projects I done
 | ----------- | ----------- |
 | [SCMed](https://github.com/Spaghetti-Code-Estgoh/spaghetti-code)      | 2020-2021      |
 | [Projekt Akrasia](https://github.com/Spaghetty-Arts/project-akrasia)   | 2021       |
+| [IP Forger](https://github.com/Cyber-Hacker-Boys/SRC-Project)   | 2021       |
+| [Smart Repair](https://github.com/fabian-nunes/smart-repair)   | 2022       |
 
 ## Gaming 🎮
 
