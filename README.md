@@ -1,6 +1,8 @@
 # Hi my name is Fabian Nunes! 👋
 I am Computer Scientist / Software Engineer currently doing my Master Degree in Cybersecurity and Forensics Investigation on the college ESTG in Leiria, Portugal.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabian-nunes)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Hobbies ❤️
 
 I love programming anda game developing participating in various Hacktons.
