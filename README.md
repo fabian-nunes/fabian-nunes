@@ -1,5 +1,5 @@
 # Hi my name is Fabian Nunes! 👋
-I am Computer Scientist / Software Engineer currently working as a university professor at the Polytechinik of Leiria where i teach subjects such as Web Development and IOT.
+I am Computer Scientist / Software Engineer currently working as a university professor at the Polytechinik of Leiria where i teach subjects such as Web Development and IoT.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabian-nunes)](https://github.com/anuraghazra/github-readme-stats)
 
