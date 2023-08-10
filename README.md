@@ -1,118 +1,192 @@
-# Hi my name is Fabian Nunes! 👋
-I am Computer Scientist / Software Engineer currently working as a university professor at the Polytechinik of Leiria where i teach subjects such as Web Development and IoT.
+<!--💬GREETINGSTITLE / 🌐WEBSITE: https://github.com/denvercoder1/readme-typing-svg -->
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=26F708&background=000000&center=true&vCenter=true&width=435&lines=Welcome">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabian-nunes&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<!--🖼️RICK-->
+<p align="center">
+<img src="https://i.ibb.co/Gvz60kt/the-matrix-reloaded-matrix.gif" height="240" width="370">
 
-## Hobbies ❤️
+<!--📏LINE-->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-I love programming anda game developing participating in various Hacktons.
+<!--🖼️ILOVEOPENSOURCE-->
+<p align="center">
+<img src="https://i.imgur.com/AZa5yxa.png" height="120" width="600">
 
-## Knowledge  🧑‍🎓 
+<!--🎵SPOTIFY / 🌐WEBSITE: https://github.com/kittinan/spotify-github-profile -->
+<p align="center">
+<a href="https://github.com/rayriffy/apple-music-github-profile"><img src="https://music-profile.rayriffy.com/theme/dark.svg?uid=000301.76c20fc4baa44abd81f290125712791e.1158"></a>
 
-This is the technologies which i am familiar:
-#### Programming Language:
-![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) ![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![android](https://img.shields.io/badge/Android%20Java-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+<!--🦜PARROTSEMOJI / 🌐WEBSITE: https://github.com/seanprashad/slackmoji/ -->
+<p align="center">
+<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-portugal.gif?raw=true">
+<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-portugal.gif?raw=true">
+<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-portugal.gif?raw=true">
+<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-portugal.gif?raw=true">
+<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-portugal.gif?raw=true">
 
-#### Database:
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Oracle](https://img.shields.io/badge/oracle%20-%23F00000.svg?&style=for-the-badge&logo=oracle&logoColor=white") 
+<!--📏LINE-->
+<p align="center">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-#### Frameworks:
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![Boot](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=Django&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-
-#### Engine:
-![Unity](https://img.shields.io/badge/unity%20-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white) ![MZ](https://img.shields.io/badge/RPG%20Maker-MV-Green?style=for-the-badge) ![MZ](https://img.shields.io/badge/RPG%20Maker-MZ-blue?style=for-the-badge)
-
-#### Network
-![MV](https://img.shields.io/badge/-CCNA1-darkblue?style=for-the-badge&logo=Cisco) ![MZ](https://img.shields.io/badge/-CCNA2-darkblue?style=for-the-badge&logo=Cisco) ![MZ](https://img.shields.io/badge/-CCNA3-darkblue?style=for-the-badge&logo=Cisco)
-![MZ](https://img.shields.io/badge/-IoT%20Security-darkblue?style=for-the-badge&logo=Cisco) ![MZ](https://img.shields.io/badge/-CyberOps%20Associate-darkblue?style=for-the-badge&logo=Cisco) ![MZ](https://img.shields.io/badge/-Network%20Security-darkblue?style=for-the-badge&logo=Cisco)
-
-#### Design:
-![Photo](https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Aseprite](https://img.shields.io/badge/-Aseprite-gray?style=for-the-badge&logo=Aseprite)
-
-#### Office:
-![Office](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white) ![ex](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![PPT](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white) ![Visio](https://img.shields.io/badge/-Microsoft%20Visio-blue?style=for-the-badge&logo=microsoft-visio) ![Project](https://img.shields.io/badge/-Microsoft%20Project-brightgreen?style=for-the-badge&logo=microsoft%20office)
-
-#### Sound
-![Aud](https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white)
-
-#### Video
-![Da](https://img.shields.io/badge/-Da%20Vinci%20Resolve-blue?style=for-the-badge&logo=appveyor) ![Prem](https://img.shields.io/badge/-Adobe%20Premier-purple?style=for-the-badge&logo=adobe-premiere-pro) ![Ae](https://img.shields.io/badge/-Adobe%20After%20Effects-purple?style=for-the-badge&logo=adobe-after-effects)
-
-#### Prototype
-![Axure](https://img.shields.io/badge/-Axure-blue?style=for-the-badge) ![Just](https://img.shields.io/badge/-JustInMind-blue?style=for-the-badge) ![figma](https://img.shields.io/badge/-Figma-orange?style=for-the-badge&logo=figma)
-
-#### Used OS
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white) ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0) ![Mac OS](https://img.shields.io/badge/ios-000000?style=for-the-badge&logo=ios&logoColor=F0F0F0) ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white) ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white) ![Cent OS](https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Debian](https://img.shields.io/badge/debian-A81D33.svg?&style=for-the-badge&logo=debian&logoColor=white) ![Elementary](https://img.shields.io/badge/elementary%20os-64BAFF.svg?&style=for-the-badge&logo=elementary&logoColor=white)
+<!--📰RSS / TAKE IMAGE FROM https://github.com/trinib/trinib/blob/main/images/marquee.svg TO YOUR REPO AND EDIT IT-->
+<p align="center">
+<img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg">
 
 
-#### Used IDE
-![Intelij](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=for-the-badge&logo=intellij-idea&logoColor=white) ![atom](https://img.shields.io/badge/-Atom-green?style=for-the-badge&logo=atom) ![eclipse](https://img.shields.io/badge/-Eclipse%20IDE-purple?style=for-the-badge&logo=eclipse%20IDE) ![net](https://img.shields.io/badge/NetBeans%20IDE-1B6AC6.svg?&style=for-the-badge&logo=apache-netbeans-ide&logoColor=white) ![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid) ![data](https://img.shields.io/badge/DataGrip-000000.svg?&style=for-the-badge&logo=jetbrains&logoColor=white) ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white) ![studio](https://img.shields.io/badge/Android%20Studio-000000.svg?&style=for-the-badge&logo=android%20studio&logoColor=white) ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green) ![WStorm](https://img.shields.io/badge/Webstorm-000000.svg?&style=for-the-badge&logo=WebStorm&logoColor=white) ![Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson)  ![data](https://img.shields.io/badge/GoLand-000000.svg?&style=for-the-badge&logo=goland&logoColor=white)
+<!--🤖ASCIIART / 🌐WEBSITES: https://asciiart.website/ & https://github.com/github/markup/issues/1440#issuecomment-803889380 -->
+
+<div align="center">
+  
+```diff
++@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+@@                                                                 @@
+@@                                                                 @@
+@@                                                -----            @@
+@@                                              /      \           @@
+@@                                             )        |          @@
+@@       :================:                      "    )/           @@
+@@      /||              ||                      )_ /*             @@
+@@     / ||    System    ||                          *             @@
+@@    |  ||     Down     ||                   (=====~*~======)     @@
+@@     \ || Please wait  ||                  0      \ /       0    @@
+@@       ==================                //   (====*====)   ||   @@
+@@........... /      \.............       //         *         ||  @@
+@@:\        ############            \    ||    (=====*======)  ||  @@
+@@: ---------------------------------     V          *          V  @@
+@@: |  *   |__________|| ::::::::::  |    o   (======*=======) o   @@
+@@\ |      |          ||   .......   |    \\         *         ||  @@
+@@  --------------------------------- 8   ||   (=====*======)  //  @@
+@@                                     8   V         *         V   @@
+@@  --------------------------------- 8   =|=;  (==/ * \==)   =|=  @@
+@@  \   ###########################  \   / ! \     _ * __    / | \ @@
+@@   \  +++++++++++++++++++++++++++   \  ! !  !  (__/ \__)  !  !  !@@
+@@    \ ++++++++++++++++++++++++++++   \        0 \ \V/ / 0        @@
+@@     \________________________________\     ()   \o o/   ()      @@
+@@      *********************************     ()           ()      @@
+@@                                                                 @@
++@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+```
+  
+</div>
 
 
-## Certifications 🎓
+<!--📏LINE-->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-These are various certifications i have taken during my academic progress:
+<!--📊💬STATTITLE / 🌐WEBSITE: https://textanim.com/ -->
+<p align="center">
+<img src="https://i.imgur.com/YCw47Dm.gif">
 
-| Course    | Year | Certification |
-| ----------- | ----------- | ----------- | 
-| NDG Linux Essentials | 2018 | [Certificate](https://drive.google.com/file/d/1ZZh5wU-sURPMWWVxDC5zDMSoQBkks9IR/view?usp=sharing)| 
-| CCNA: Introduction to Networks | 2020 | [Badge](https://www.credly.com/badges/2c2608b0-7969-4b25-8c35-4c8b77cf0a71?source=linked_in_profile) | 
-| PCAP: Programming Essentials in Python | 2021 | [Certificate](https://drive.google.com/file/d/1u8c7a_q36CaLwOwv4qt3nBZUk6x5Y42p/view?usp=sharing) |
-| CCNA: Switching, Routing, and Wireless Essentials | 2021 | [Badge](https://www.credly.com/badges/037ddad4-22b3-4ff2-8a71-45eadb7e6bb1) |
-| CCNA: Enterprise Networking, Security, and Automation | 2021 | [Badge](https://www.credly.com/badges/614923b3-41d6-4ce6-b056-d3fc0d4a82dd?source=linked_in_profile) |
-| Javascript Essentials 1 (JSE) | 2021 | [Certification](https://drive.google.com/file/d/1stwvBTt7KP10Oy2BTVzcNE4Ipfu5T8P2/view?usp=sharing) |
-| Introduction to Cybersecurity | 2021 | [Badge](https://www.credly.com/badges/c851b89d-ff0d-440d-8f83-da1756689fd4?source=linked_in_profile) |
-| Cybersecurity Essentials | 2021 | [Badge](https://www.credly.com/badges/91edfc8d-a8b6-4006-9107-91372f951a53?source=linked_in_profile) |
-| CyberOps Associate | 2021 | [Badge](https://www.credly.com/badges/046358dc-51a0-4197-b8f1-78374f40bcdf?source=linked_in_profile) |
-| IoT Security | 2021 | [Certification](https://drive.google.com/file/d/1WKaV3Pdp8drioE1aCu-SzYunpdjvFKwn/view?usp=sharing) |
-| Network Security | 2021 | [Certification](https://www.credly.com/badges/5cb3a9ad-1390-4cb4-918d-e128b6578d64?source=linked_in_profile) |
-| CLA: Programming Essentials in C | 2022 | [Certification](https://drive.google.com/file/d/1hRhpJvNdPifKd3IQeG6mpwbV2kbbgF1n/view?usp=sharing) |
+<!--🖼️OCTOCAT-->
+<p align="center">
+<img src="https://media.giphy.com/media/cDZJ17fbzWVle68VCB/giphy.gif"  width="100px" height="100px"></p>
 
+<!--🌯GITHUBWRAPPED / 🌐https://github.com/neat-run/wrapped -->
+<p align="center">
+<a href="https://fabian-nunes.wrapped.run"><b>My GitHub Wrapped</b></a>
 
-## Activities  👨‍💻
+<!--📊STATSGRAPH / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=fabian-nunes&show_icons=true&theme=dark">
 
-This are the hacktons that i participated:
+<!--📊STREAKSTATSGRAPH / 🌐WEBSITE: https://github.com/denvercoder1/github-readme-streak-stats -->
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=fabian-nunes&theme=dark"/></a>
 
-| Hackton     | Year        | Project     |
-| ----------- | ----------- | ----------- |
-| Tecstorm      | 2019      | Smart Thrash |
-| Global Game Jam      | 2020      | [ParkOut](https://globalgamejam.org/2020/games/parkout-0) |
-| Tecstorm      | 2020      | [AugLearn](https://taikai.network/en/junitec/challenges/tecstorm2020/projects/ck48dub1j16b60807ju9tayii) |
-| Global Game Jam      | 2021      | [Aventuras Do Alcides Part 2](https://globalgamejam.org/2021/games/aventuras-do-alcides-parte-2-tinto-crusaders-6) |
-| Tecstorm      | 2021      | [AugMed](https://taikai.network/en/junitec/challenges/tecstorm2021/projects/ckj03ft1341v80707kpwskstq) |
-| Tecstorm      | 2022      | [Safetrack](https://taikai.network/en/junitec/hackathons/tecstorm2022/projects/ckxqgyu0a7809350rv479bhwnlj/idea) |
+<!--📙LANGUAGES / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabian-nunes&theme=dark">
 
-## Other Projects 👑
+<!--🏆TROPHYGIF-->
+<p align="center">
+<img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
+  
+<!--🏆TROPHY / 🌐WEBSITE: https://github.com/ryo-ma/github-profile-trophy -->
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=fabian-nunes&theme=onedark&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,Followers,PullRequest">
+ </div>
 
-These are some other projects I done 
-| Project     | Year |
-| ----------- | ----------- |
-| [SCMed](https://github.com/Spaghetti-Code-Estgoh/spaghetti-code)      | 2020-2021      |
-| [Projekt Akrasia](https://github.com/Spaghetty-Arts/project-akrasia)   | 2021       |
-| [IP Forger](https://github.com/Cyber-Hacker-Boys/SRC-Project)   | 2021       |
-| [Smart Repair](https://github.com/fabian-nunes/smart-repair)   | 2022       |
-
-## Gaming 🎮
-
-#### Platform:
-![pc](https://img.shields.io/badge/-PC-yellow?style=for-the-badge&logo=pcgamingwiki) ![switch](https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)
-
-#### Favorite Platform:
-![steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white) ![ubisoft](https://img.shields.io/badge/Uplay-000000?style=for-the-badge&logo=ubisoft&logoColor=white)
-
-#### Rig:
-![nvidia](https://img.shields.io/badge/NVIDIA-GTX3080-76B900?style=for-the-badge&logo=nvidia&logoColor=white) ![intel](https://img.shields.io/badge/Intel-Core_i7_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white) ![ram](https://img.shields.io/badge/RAM-32GB-blue?style=for-the-badge)
-
-#### Current Laptops:
-![hp](https://img.shields.io/badge/Game%20Dev-HP%20OMEN%2015%202019-red?style=for-the-badge&logo=hp) ![apple](https://img.shields.io/badge/School-MacBook%20Pro%2013%202020%20M1-lightgrey?style=for-the-badge&logo=apple)
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=fabian-nunes&theme=onedark&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Issues,Organizations,Stars">
+ </div>
 
 
-## Contact 🌐
+<!--📛BADGES / 🌐WEBSITE: https://github.com/DenverCoder1/custom-icon-badges && https://github.com/idealclover/GitHub-Star-Counter -->
+<p align="center">
+  <a href="https://github.com/fabian-nunes?tab=stars&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/fabian-nunes"/></a>
+<a href="https://github.com/fabian-nunes?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/fabian-nunes?color=23960c&labelColor=188207&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
 
-These are some ways to contact me:
-| Platform     | Link |
-| ----------- | ----------- |
-| ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)      | [My Website](https://fabian-nunes.github.io/cv/)      |
-| ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)   |  [My LinkedIn](https://www.linkedin.com/in/fabian-nunes/)      |
-| ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)   |  fabiannunes12@gmail.com      |
+<!--📈ACTIVITYGRAPH / 🌐WEBSITE: https://github.com/Ashutosh00710/github-readme-activity-graph -->
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=fabian-nunes&theme=react-dark">
 
+<!--🐍💬SNAKETITLE / 🌐WEBSITE: https://textanim.com/ -->
+<p align="center">
+<img src="https://i.imgur.com/x1KbuCq.gif" width="500">
+
+<!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
+<img src="https://svgshare.com/i/wPk.svg" width="100%">
+
+<!--📉METRICS / 🌐WEBSITE: https://github.com/lowlighter/metrics -->
+<h4 align="right">
+<details><summary><b>𝓟&nbsp;𝓡&nbsp;𝓞&nbsp;𝓕&nbsp;𝓘&nbsp;𝓛&nbsp;𝓔&nbsp;&nbsp; 𝓜&nbsp;𝓔&nbsp;𝓣&nbsp;𝓡&nbsp;𝓘&nbsp;𝓒&nbsp;𝓢<img src="https://media.giphy.com/media/mBYkXvLxkHZFmqBHIC/giphy.gif" width=50px height=40px></b></summary>
+<p>
+<p align="center">
+<img src="https://metrics.lecoq.io/fabian-nunes?template=classic&isocalendar=1&languages=1&activity=1&fortune=1&notable=1&introduction=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&notable=false&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&notable.self=false&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&introduction=false&introduction.title=true&fortune=false&config.timezone=Europe%2FLisbon">
+</p>
+</details>
+
+<!--📏LINE-->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<!--💬QUOTESTITLE / 🌐WEBSITE: https://textanim.com/ -->
+<p align="center">
+<img src="https://www.azquotes.com/picture-quotes/quote-people-think-that-computer-science-is-the-art-of-geniuses-but-the-actual-reality-is-donald-knuth-61-17-29.jpg">
+
+<!--📏LINE-->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<p align="center">
+
+<!--🐱CAT-->
+<p align="center">
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
+
+<!--🤔INTERESTTITLE-->
+<p align="center">
+<img src="https://i.imgur.com/ozEwbHs.gif">
+
+<!--🖼️🖼️INTERSTLOGOS-->
+<p align="center">
+<img src="https://www.vectorlogo.zone/logos/apple/apple-tile.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="60">
+<img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-ar21.svg" >
+<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="60">
+</h4>
+
+<!--🖼️⭐🔱STARRED/FORK-->
+<h4 align="right">
+ 
+<table>
+  <tr>
+   <img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="70">
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </tr>
+  <tr>
+    <td><p align="center"><a href="https://github.com/fabian-nunes?tab=stars"><b>MY STARRED REPOS <br>AND TOPICS</b></a>
+  </tr>
+ </table>
+ 
+<!--📏LINE-->
+<p align="center">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<!--🦶FOOTER--> 
+<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
