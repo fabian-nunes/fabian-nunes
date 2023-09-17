@@ -20,10 +20,9 @@
 <!--🦜PARROTSEMOJI / 🌐WEBSITE: https://github.com/seanprashad/slackmoji/ -->
 <p align="center">
 <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-portugal.gif?raw=true">
-<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-portugal.gif?raw=true">
-<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-portugal.gif?raw=true">
-<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-portugal.gif?raw=true">
-<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-portugal.gif?raw=true">
+<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-unitedkingdom.gif?raw=true">
+<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-germany.gif?raw=true">
+<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-spain.gif?raw=true">
 
 <!--📏LINE-->
 <p align="center">
